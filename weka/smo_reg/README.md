@@ -1,0 +1,7 @@
+### Weka: Forecast
+
+#### Basic Configuration
+- Number of time units to forecast: 14
+- Time stamp: Date
+- Periodicity: Daily
+- Perform Evaluation: Yes
